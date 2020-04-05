@@ -1,0 +1,61 @@
+/*************Element Styles*****************/
+body {
+  background-color: #d1f5d3;
+}
+
+p {
+  font-size: 1.25rem;
+  font-family: 'Comic Neue', cursive;
+}
+
+/******************Class Sytes***************/
+.div-prayer {
+  padding: 25px;
+  color: #7d5e2a;
+  width: 25%;
+  text-align: justify;
+  float: left;
+}
+
+.img-mary {
+  width: 150px;
+  height: auto;
+  border-radius: 25px;
+  box-shadow: 10px 5px 10px #9dc6a7;
+  margin-top: 25px;
+}
+
+.hr-topmost {
+  margin: auto;
+  width: 20%;
+  color: lightgrey;
+}
+
+.book {
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+}
+
+.div-container {
+  column-count: 4;
+  column-gap: 30px;
+  column-rule: 4px dotted lightblue;
+  clear: left;
+}
+
+.div-hr-top {
+  clear: both;
+  margin-bottom: 20Px;
+}
+
+.p-jmj {
+  position: absolute;
+  right: 20px;
+}
+
+.h2-city-of-god{
+  column-span: all;
+  padding: .5rem;
+  background-color: #9dc6a7;
+  color: #231903;
+}
